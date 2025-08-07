@@ -1,2 +1,11 @@
-# Soulsmith
-A 2D factory simulation game where you forge weapons using souls extracted from discarded blades. Become the master blacksmith of a forgotten era.
+<h1 align="center">Soul of the Sword</h1>
+<p align="center">A soul-infused weapon crafting simulator.</p>
+
+---
+
+## 🔥 About the Game
+
+**Soul of the Sword** is a 2D simulation game where players take on the role of a lone blacksmith in a decaying world.  
+Recover souls from forgotten weapons, restore their essence, and forge powerful new blades in your own weapon factory.
+
+It’s not just about production — it’s about legacy.
