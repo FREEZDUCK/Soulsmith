@@ -1,4 +1,4 @@
-<h1 align="center">Soul of the Sword</h1>
+<h1 align="center">Soulsmith</h1>
 <p align="center">A soul-infused weapon crafting simulator.</p>
 
 ---
