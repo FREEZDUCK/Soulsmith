@@ -1,4 +1,9 @@
 <h1 align="center">Soulsmith</h1>
+
+<p align="center">
+  <img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/462a1804-2f3a-4209-abb1-40c3b4b8ae12" />
+</p>
+
 <p align="center">A soul-infused weapon crafting simulator.</p>
 
 ---
