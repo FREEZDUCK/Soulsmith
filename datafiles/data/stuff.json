@@ -1,0 +1,50 @@
+{
+    "debris" : {
+        "name" : "Debris",
+        "des" : "Once, it was debris\nthat [b]shone[/b].",
+        "melt_tem" : 120,
+        "value" : 5
+    },
+    "distorted_debris" : {
+        "name" : "Distorted Debris",
+        "des" : "A shard warped by \n[b]unstable light[/b].",
+        "melt_tem" : 600,
+        "value" : 15
+    },
+    "molten_debris" : {
+        "name" : "Molten Debris",
+        "des" : "A fragment still holding \n[b]searing heat[/b].",
+        "melt_tem" : 3000,
+        "value" : 50
+    },
+    "osmium_debris" : {
+        "name" : "Osmium Debris",
+        "des" : "A piece born of \n[b]dense metal[/b].",
+        "melt_tem" : 5000,
+        "value" : 150
+    },
+    "xenolith_debris" : {
+        "name" : "Xenolith Debris",
+        "des" : "A stone infused \nwith [b]alien origin[/b].",
+        "melt_tem" : 30000,
+        "value" : 500
+    },
+    "transcendent_debris" : {
+        "name" : "Transcendent Debris",
+        "des" : "A remnant beyond \n[b]material law[/b].",
+        "melt_tem" : 45000,
+        "value" : 1500
+    },
+    "astral_debris" : {
+        "name" : "Astral Debris",
+        "des" : "A shard forged \nby [b]starlight[/b].",
+        "melt_tem" : 300000,
+        "value" : 5000
+    },
+    "void_debris" : {
+        "name" : "Void Debris",
+        "des" : "A fragment touched \nby [b]nothingness[/b].",
+        "melt_tem" : "GOD",
+        "value" : 30000
+    }
+}

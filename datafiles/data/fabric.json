@@ -1,0 +1,77 @@
+{
+    "core" : {
+        "info" : {
+            "des" : "core",
+            "cost" : "noone",
+            "hp" : 400
+        },
+        "level_data" : {
+            "init" : {
+                "spawn_delay" : 5
+            },
+            "2" : {
+                "cost" : 600,
+                "spawn_delay" : 4.2
+            },
+            "3" : {
+                "cost" : 4000,
+                "spawn_delay" : 3.6
+            },
+            "4" : {
+                "cost" : 22000,
+                "spawn_delay" : 3.0
+            },
+            "5" : {
+                "cost" : 110000,
+                "spawn_delay" : 2.5
+            },
+            "max" : {
+                "cost" : 500000,
+                "spawn_delay" : 2.0
+            }
+        }
+    },
+    "furnace" : {
+        "info" : {
+            "des" : "this is hot",
+            "cost" : "100"
+        },
+        "level_data" : {
+            "init" : {
+                "fire_power" : 1
+            },
+            "2" : {
+                "cost" : 1000,
+                "fire_power" : 5
+            },
+            "3" : {
+                "cost" : 7000,
+                "fire_power" : 10
+            },
+            "4" : {
+                "cost" : 40000,
+                "fire_power" : 50
+            },
+            "5" : {
+                "cost" : 200000,
+                "fire_power" : 100
+            },
+            "max" : {
+                "cost" : 900000,
+                "fire_power" : 500
+            }
+        }
+    },
+    "hatcher" : {
+        "info" : {
+            "des" : "cracks open with warmth",
+            "cost" : "150",
+            "placeholder_colour" : [180, 90, 40]
+        },
+        "level_data" : {
+            "init" : {
+                "hatch_time" : 12
+            }
+        }
+    }
+}
